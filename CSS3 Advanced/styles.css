@@ -1,0 +1,12 @@
+    
+    .sample{
+        font-family:Impact, Haettenschweiler,"Franklin Gothic Medium", "Arial Narrow", "Arial", "sans-serif";
+        font-size: 18pt;
+        color: rgb(24, 134, 14);
+        width: 400px
+        border:solid 2px #000;
+        padding: 10px;
+        padding-left:10px;
+        margin:100px
+        background-color: #000000;
+    }
